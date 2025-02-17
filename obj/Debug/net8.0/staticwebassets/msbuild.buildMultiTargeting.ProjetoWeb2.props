@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProjetoWeb2.props" />
+</Project>
