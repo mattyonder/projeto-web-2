@@ -1,0 +1,65 @@
+﻿@model IEnumerable<ProjetoWeb2.Models.Voluntarios>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.VolutarioNTxome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VoluntarioDtDataNascimento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VoluntarioTxCpf)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VoluntarioTxEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VoluntarioTxTelefone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VoluntarioTxEndereco)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.VolutarioNTxome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VoluntarioDtDataNascimento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VoluntarioTxCpf)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VoluntarioTxEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VoluntarioTxTelefone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VoluntarioTxEndereco)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.VoluntarioNrid">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.VoluntarioNrid">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.VoluntarioNrid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

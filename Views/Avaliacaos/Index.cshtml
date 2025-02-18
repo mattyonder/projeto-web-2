@@ -1,0 +1,65 @@
+﻿@model IEnumerable<ProjetoWeb2.Models.Avaliacoes>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.VoluntarioNrId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InstituicaoNrId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OportunidadeNrId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AvaliacaoNrNota)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AvaliacaoTxComentario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AvaliacaoDtDataAvaliacao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.VoluntarioNrId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InstituicaoNrId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OportunidadeNrId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AvaliacaoNrNota)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AvaliacaoTxComentario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AvaliacaoDtDataAvaliacao)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.AvaliacaoNrId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.AvaliacaoNrId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.AvaliacaoNrId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

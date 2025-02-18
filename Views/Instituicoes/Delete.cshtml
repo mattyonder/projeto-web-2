@@ -1,0 +1,63 @@
+﻿@model ProjetoWeb2.Models.Instituicoes
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Instituicoes</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.InstituicaoTxCnpj)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.InstituicaoTxCnpj)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.InstituicaoTxNome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.InstituicaoTxNome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.InstituicaoTxAreaAtuacao)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.InstituicaoTxAreaAtuacao)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.InstituicaoTxMissao)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.InstituicaoTxMissao)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.InstituicaoTxWebsite)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.InstituicaoTxWebsite)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.InstituicaoTxContato)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.InstituicaoTxContato)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.InstituicaoTxEndereco)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.InstituicaoTxEndereco)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="InstituicaoNrId" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

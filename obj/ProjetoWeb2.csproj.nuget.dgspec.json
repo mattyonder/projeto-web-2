@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Meus arquivos\\Faculdade\\6° Periodo\\Programação Web 2\\ProjetoWeb2\\ProjetoWeb2.csproj": {}
+    "C:\\Meus_arquivos\\Faculdade\\6° Periodo\\Programação Web 2\\ProjetoWeb2\\ProjetoWeb2.csproj": {}
   },
   "projects": {
-    "C:\\Meus arquivos\\Faculdade\\6° Periodo\\Programação Web 2\\ProjetoWeb2\\ProjetoWeb2.csproj": {
+    "C:\\Meus_arquivos\\Faculdade\\6° Periodo\\Programação Web 2\\ProjetoWeb2\\ProjetoWeb2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Meus arquivos\\Faculdade\\6° Periodo\\Programação Web 2\\ProjetoWeb2\\ProjetoWeb2.csproj",
+        "projectUniqueName": "C:\\Meus_arquivos\\Faculdade\\6° Periodo\\Programação Web 2\\ProjetoWeb2\\ProjetoWeb2.csproj",
         "projectName": "ProjetoWeb2",
-        "projectPath": "C:\\Meus arquivos\\Faculdade\\6° Periodo\\Programação Web 2\\ProjetoWeb2\\ProjetoWeb2.csproj",
+        "projectPath": "C:\\Meus_arquivos\\Faculdade\\6° Periodo\\Programação Web 2\\ProjetoWeb2\\ProjetoWeb2.csproj",
         "packagesPath": "C:\\Users\\jsmat\\.nuget\\packages\\",
-        "outputPath": "C:\\Meus arquivos\\Faculdade\\6° Periodo\\Programação Web 2\\ProjetoWeb2\\obj\\",
+        "outputPath": "C:\\Meus_arquivos\\Faculdade\\6° Periodo\\Programação Web 2\\ProjetoWeb2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,6 +69,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [

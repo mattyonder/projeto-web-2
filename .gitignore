@@ -55,6 +55,8 @@ ntuser.dat*
 # JetBrains Rider files
 .idea/
 
+.vs/
+
 # Other temporary files
 ~$*
 *.tmp

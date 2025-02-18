@@ -17,41 +17,205 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetoWeb2
 build_property.RootNamespace = ProjetoWeb2
-build_property.ProjectDir = C:\Meus arquivos\Faculdade\6° Periodo\Programação Web 2\ProjetoWeb2\
+build_property.ProjectDir = C:\Meus_arquivos\Faculdade\6° Periodo\Programação Web 2\ProjetoWeb2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Meus arquivos\Faculdade\6° Periodo\Programação Web 2\ProjetoWeb2
+build_property.MSBuildProjectDirectory = C:\Meus_arquivos\Faculdade\6° Periodo\Programação Web 2\ProjetoWeb2
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Meus arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Pages/Error.cshtml]
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Meus arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Pages/Index.cshtml]
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Meus arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Pages/Privacy.cshtml]
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Meus arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Meus arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Pages/_ViewImports.cshtml]
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Meus arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Pages/_ViewStart.cshtml]
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Meus arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Pages/Shared/_Layout.cshtml]
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Atividades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRpdmlkYWRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Atividades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRpdmlkYWRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Atividades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRpdmlkYWRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Atividades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRpdmlkYWRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Atividades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRpdmlkYWRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Avaliacaos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZhbGlhY2Fvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Avaliacaos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZhbGlhY2Fvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Avaliacaos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZhbGlhY2Fvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Avaliacaos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZhbGlhY2Fvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Avaliacaos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXZhbGlhY2Fvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Candidaturas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXR1cmFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Candidaturas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXR1cmFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Candidaturas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXR1cmFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Candidaturas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXR1cmFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Candidaturas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXR1cmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Habilidades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaWxpZGFkZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Habilidades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaWxpZGFkZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Habilidades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaWxpZGFkZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Habilidades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaWxpZGFkZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Habilidades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFiaWxpZGFkZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Instituicoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dWljb2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Instituicoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dWljb2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Instituicoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dWljb2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Instituicoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dWljb2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Instituicoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdGl0dWljb2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Oportunidades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BvcnR1bmlkYWRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Oportunidades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BvcnR1bmlkYWRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Oportunidades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BvcnR1bmlkYWRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Oportunidades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BvcnR1bmlkYWRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Oportunidades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BvcnR1bmlkYWRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/VoluntarioHabilidades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb0hhYmlsaWRhZGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/VoluntarioHabilidades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb0hhYmlsaWRhZGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/VoluntarioHabilidades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb0hhYmlsaWRhZGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/VoluntarioHabilidades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb0hhYmlsaWRhZGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/VoluntarioHabilidades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb0hhYmlsaWRhZGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Voluntarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Voluntarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Voluntarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Voluntarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Views/Voluntarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Meus_arquivos/Faculdade/6° Periodo/Programação Web 2/ProjetoWeb2/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8sq2ktdhv3

@@ -1,0 +1,54 @@
+﻿@model ProjetoWeb2.Models.Voluntarios
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Voluntarios</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VolutarioNTxome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VolutarioNTxome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VoluntarioDtDataNascimento)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VoluntarioDtDataNascimento)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VoluntarioTxCpf)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VoluntarioTxCpf)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VoluntarioTxEmail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VoluntarioTxEmail)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VoluntarioTxTelefone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VoluntarioTxTelefone)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VoluntarioTxEndereco)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VoluntarioTxEndereco)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.VoluntarioNrid">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

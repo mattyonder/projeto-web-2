@@ -1,0 +1,42 @@
+﻿@model ProjetoWeb2.Models.Candidaturas
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Candidaturas</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VoluntarioNrId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VoluntarioNrId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.OportunidadeNrId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.OportunidadeNrId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CandidaturaTxStatus)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CandidaturaTxStatus)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CandidaturaTxDataCandidatura)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CandidaturaTxDataCandidatura)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.CandidaturaNrId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
