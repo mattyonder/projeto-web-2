@@ -15,5 +15,6 @@ public class Atividade
     [DataType(DataType.Date)]
     public DateTime? DataFim { get; set; }
     public required int InstituicaoId { get; set; }
+    public required List<int> HabilidadeIdList { get; set; }
 }
 

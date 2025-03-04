@@ -10,5 +10,6 @@ public class Voluntario
     public required DateTime DataNascimento { get; set; }
     public required string Telefone { get; set; }
     public required string Endereco { get; set; }
+    public required List<int> HabilidadesIdList { get; set; }
 
 }

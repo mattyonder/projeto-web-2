@@ -2,7 +2,8 @@
 {
     public class VoluntarioAtividade
     {
-        public int AtividadeId { get; set; }
-        public int HabilidadeId { get; set; }
+        public int Id { get; set; }
+        public required int AtividadeId { get; set; }
+        public required int HabilidadeId { get; set; }
     }
 }

@@ -4,6 +4,7 @@ namespace ProjetoWeb2.Models;
 
 public class VoluntarioHabilidade
 {
-    public int VoluntarioId { get; set; }
-    public int HabilidadeId { get; set; }
+    public int Id { get; set; }
+    public required int VoluntarioId { get; set; }
+    public required int HabilidadeId { get; set; }
 }
