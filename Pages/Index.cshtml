@@ -1,0 +1,34 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div>
+    <h1>Seja bem vindo a nossa plataforma de voluntariado</h1>
+</div>
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+Bem vindo a plataforma de voluntariado
+<a href="~/voluntarios">Clique aqui para ir para a pagina de voluntarios</a>
+
+<h2>Algumas habilidades criadas até o momento</h2>
+<ul>
+    @foreach (var atividade in Model.Habilidades)
+    {
+        <div style="display:flex;flex-direction:row;">
+        <li>
+            <p>@atividade.Id</p>
+            <p>@atividade.Nome</p>
+        </li>
+        </div>
+
+
+    }
+    <a href="/voluntarios/criar">Criar um voluntário</a>
+</ul>
+ *@
